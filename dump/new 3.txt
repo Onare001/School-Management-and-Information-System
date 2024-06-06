@@ -1,0 +1,412 @@
+
+ 
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>F.U.T Minna | ePortaltme</title>
+    <!-- Core CSS - Include with every page -->
+    <link href="assets/A.plugins,,_bootstrap,,_bootstrap.css+font-awesome,,_css,,_font-awesome.css+plugins,,_pace,,_pace-theme-big-counter.css+css,,_style.css+css,,_main-style.css+plugins,,_morris,,_morris-0.4.3.min.css,Mcc.WZTd6XFxZN.css.pagespeed.cf.12qVO2N2II.css" rel="stylesheet"/>
+    
+    
+    
+    
+    <!-- Page-Level CSS -->
+    
+   </head>
+<body>
+    <!--  wrapper -->
+    
+    <div id="wrapper">
+        <!-- navbar top -->
+        <nav class="navbar navbar-default navbar-fixed-top" role="navigation" id="navbar">
+            <!-- navbar-header -->
+            <div class="navbar-header">
+               <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".sidebar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" id="navbar-text" href="index.php">
+                    <img src="assets/img/xfutlogo.png.pagespeed.ic.Ku-h0agTRA.webp" alt=""/> 
+                FEDERAL UNIVERSITY OF TECHNOLOGY, MINNA</a>
+            </div>
+            <!-- end navbar-header -->
+            <!-- navbar-top-links -->
+            <ul class="nav navbar-top-links navbar-right">
+                <!-- main dropdown -->
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                        <span class="top-label label label-danger">0</span><i class="fa fa-envelope fa-3x"></i>
+                    </a>
+                    <!-- dropdown-messages -->
+                    <ul class="dropdown-menu dropdown-messages">
+                       
+                        <li class="divider"></li>
+                        <li>
+                            <a class="text-center" href="#">
+                                <strong>Read All Messages</strong>
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        </li>
+                    </ul>
+                    <!-- end dropdown-messages -->
+                </li>
+
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                        <span class="top-label label label-success">0</span>  <i class="fa fa-tasks fa-3x"></i>
+                    </a>
+                    <!-- dropdown tasks -->
+                    <ul class="dropdown-menu dropdown-tasks">
+                      
+                        <li class="divider"></li>
+                        <li>
+                            <a class="text-center" href="#">
+                                <strong>See All Tasks</strong>
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        </li>
+                    </ul>
+                    <!-- end dropdown-tasks -->
+                </li>
+
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                        <span class="top-label label label-warning">0</span>  <i class="fa fa-bell fa-3x"></i>
+                    </a>
+                    <!-- dropdown alerts-->
+                    <ul class="dropdown-menu dropdown-alerts">
+                      
+                        <li class="divider"></li>
+                      <li>
+                            <a class="text-center" href="#">
+                                <strong>See All Alerts</strong>
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        </li>
+                    </ul>
+                    <!-- end dropdown-alerts -->
+                </li>
+
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+ <img src="data:image/webp;base64,UklGRiwDAABXRUJQVlA4ICADAACwDQCdASooAB4APmUkjkWkIiEapABABkSxAE6ZQZgSyw8x57rTM95frnHFNyq+rD7LdM413QOIDSBTDP/D5L/of9hfgC/V3/idh70QP2LJ3/1xlndM1jfw5GoAqOuMIfUlPHwL9WtNMNIANXvQsmeBlW4qhuGoAP7+fAuDpfDFhKo15AyCdwhMuy10tur2f3X/+MKH4jqOvX7KYsFJ39THfvFJklPwVE4W4rGh3Bd1jnvHZf99q+y++xN5Fu4fjne+EPivugXOSRCo6qs/POUOPopBFQkzrWSRsQ2pgUqsxjqkdnWC+eNR4WkDIx6X/CJqvy9KR9nofL1518avzP5IZYv6YtZNT1/4ZKej1beFhG4H80q7gbugE6eQSag6JZ8Gld+hBMRcGyHRArnV0ri/1bYKwlegu+sWGpCBt/km+f2tbwjy2Wo5ZlWbAmQ8cv9e9fLpSW0JxDXhEgESOR14syylZr/X7p/qlK+x4b/RIi5p4uTFdG/yb+khu75yyuulMSyyuCzQ/yEXyk79mP42nr1sGfjN/de8n317XmqnS8AWL/+ejtuDYY58kc3EdWhIntPodz3dm0q29/e/mxlOb+Nu+58KWm6xBJfwtaf8PsREITuk//TYkpdmvZMqOCM+j4jn6pFBE0VjxiuusTsncVKrSpzGDjrh4bNl+Yti92BVxOqw4SOx4nx/RlTs9GxiFvr5tmWac30bt1+Bu+f+tiZwg3Us1/y9Hb7ZRERIwSbZrUFMh7xSomVx/GS0tjJUmzCSEsZaf9xbW+pnwDWfQShzizivTSrH+gx+w4z0HT9RLcjHmJIVD/Gu3D5UDH6saW3XfmcI6c6R5Jvbugdhho5dmZrbToT+1GzSFb955tLvE2+JW9QvQl+WOLYmyVF/6LT13TzamK0LCiSzSnEyNepzkAc2NcURNVdcQII//3MjSvAWpSwKwAAfk2/6vT6wQ6qospoKv64aAeVo1dloSmfssyt4Qfk2nKNgmdn/Uc//Crjyps3OIkN2I/n34xJ/Sdhk/ADfukGezoySBEOta4dW3KFOVFEMBt+UJvgAAA==" alt="">
+                    </a>
+                    <!-- dropdown user-->
+                    <ul class="dropdown-menu dropdown-user">
+                        <li><a href="#"><i class="fa fa-user fa-fw"></i>User Profile</a>
+                        </li>
+                        <li><a href="#"><i class="fa fa-gear fa-fw"></i>Settings</a>
+                        </li>
+                        <li class="divider"></li>
+                        <li><a href="index.php"><i class="fa fa-sign-out fa-fw"></i>Logout</a>
+                        </li>
+                    </ul>
+                    <!-- end dropdown-user -->
+                </li>
+                <!-- end main dropdown -->
+            </ul>
+            <!-- end navbar-top-links -->
+
+        </nav>
+        <!-- end navbar top -->
+
+        <!-- navbar side -->
+        <nav class="navbar-default navbar-static-side" role="navigation">
+            <!-- sidebar-collapse -->
+            <div class="sidebar-collapse">
+                <!-- side-menu -->
+                <ul class="nav" id="side-menu">
+                    <li>
+                        <!-- user image section-->
+                        <div class="user-section">
+                            <div class="user-section-inner">
+<img class="img-circle" src="data:image/jpeg;base64," width="100" height="100"/>							</div>
+                            <div class="user-info">
+                                 <div>Adebaba<strong></strong></div>
+                                <div class="user-text-online">
+                                    <span class="user-circle-online btn-circle">Student ID: M2204124</span></div>
+                            </div>
+                        </div>
+                        <!--end user image section-->
+                    </li>
+                    <li class="sidebar-search">
+                        <!-- search section-->
+                        <div class="input-group custom-search-form">
+                            <input type="text" class="form-control" placeholder="Search...">
+                            <span class="input-group-btn">
+                                <button class="btn btn-default" type="button">
+                                    <i class="fa fa-search"></i>
+                                </button>
+                            </span>
+                        </div>
+                        <!--end search
+                       
+                         section-->
+                    </li>
+                   
+                    
+                    
+                     <li class="">
+                      <a href="eP.php?TK=z4l4c4k5m4o4r5l5h463137384l4h5z434r5i553i454j5h5j5g514e2u364b4p4n4n3s494p4o444k5c425e4o5k3u4t5i543m3s2q2v2z22474u2d4z5d4i5o4f4j5j5x58484m424m48483z5s5j454n41315i5n5r326f4b4f4"><i class="fa fa-dashboard fa-fw"></i>Dashboard</a>
+                    </li>
+                  <li> <a href="adm_letter/candprt.php?candid=M2204124"><i class="fa fa-dashboard fa-fw"></i>Admission Letter</a>
+                    </li>
+	
+	  	
+	
+                                        
+                      <li class="">
+                      <a href="eP.php?TK=z4l4c4k5m4o4r5l5h463137384l4h5z434r5i553i454j5h5j5g514e2u364b4p4n4n3s494p4o444k5c425e4o5k3u4t5i543m3s2q2v2z22474u2d4z5d4i5o4f4g5l5h554m4r424i474e4e4x5n4b4e4e4g4z4l5g4z4n4m4i5f4"><i class="fa fa-flask fa-fw"></i>Acceptance Fee</a>
+                    </li>
+                                        <li class="">
+                      <a href="eP.php?TK=z4l4c4k5m4o4r5l5h463137384l4h5z434r5i553i454j5h5j5g514e2u364b4p4n4n3s494p4o444k5c425e4o5k3u4t5i543m3s2q2v2z22474u2d4z5d4i5o4f4i5u5w534a484l45433t4u5o5d4e4a3m3k5k5y4u4u54483"><i class="fa fa-edit fa-fw"></i>Admission Credentials</a>
+                    </li>
+                    
+                   <li class="">
+                      <a href="eP.php?TK=z4l4c4k5m4o4r5l5h463137384l4h5z434r5i553i454j5h5j5g514e2u364b4p4n4n3s494p4o444k5c425e4o5k3u4t5i543m3s2q2v2z22474u2d4z5d4i5o4f4h5r5t54474r42433o4o4q5i5m413v354m5v416m4j513"><i class="fa fa-tasks fa-fw"></i>Biodata Records</a>
+                    </li>
+
+<!--					<li>
+                      <a href="https://e-results.futminna.edu.ng/login_stu.php"><i class="fa fa-flask fa-fw"></i>Course Registration</a>
+                    </li>-->
+                                        
+					<li class="">
+                      <a href="eP.php?TK=z4l4c4k5m4o4r5l5h463137384l4h5z434r5i553i454j5h5j5g514e2u364b4p4n4n3s494p4o444k5c425e4o5k3u4t5i543m3s2q2v2z22474u2d4z5d4i5o4f4x5n5l564b4c403o4j4k4k5r593m3e474x4y5t5b4g4"><i class="fa fa-flask fa-fw"></i>Registration Fee</a>
+                    </li>
+                                        
+                    
+                     <li class="">
+                      <a href="eP.php?TK=z4l4c4k5m4o4r5l5h463137384l4h5z434r5i553i454j5h5j5g514e2u364b4p4n4n3s494p4o444k5c425e4o5k3u4t5i543m3s2q2v2z22474u2d4z5d4i5o4f4v5j53684f4q4l4j4m4y4e4x5n4b4e4e4g4z4l5g4z4n4m4i5f4"><i class="fa fa-flask fa-fw"></i>Registration History</a>
+                    </li>
+                  
+                                         <li class="selected">
+                      <a href="eP.php?TK=z4l4c4k5m4o4r5l5h463137384l4h5z434r5i553i454j5h5j5g514e2u364b4p4n4n3s494p4o444k5c425e4o5k3u4t5i543m3s2q2v2z22474u2d4z5d4i5o4f4g5l5h5d453r4g4f494n4g4z4d474r3l4s5f5f4"><i class="fa fa-flask fa-fw"></i>Accommodation</a>
+                    </li>
+                     
+
+		                
+                    <li>
+                        <a href="https://eportal.futminna.edu.ng/accpt/MED2/signin.php?stdid=M2204124"><i class="fa fa-files-o fa-fw"></i>Enter Medical Records</a>
+                    </li>
+                  <li class="">
+                      <a href="eP.php?TK=z4l4c4k5m4o4r5l5h463137384l4h5z434r5i553i454j5h5j5g514e2u364b4p4n4n3s494p4o444k5c425e4o5k3u4t5i543m3s2q2v2z22474u2d4z5d4i5o4f4s5o5g5z2q4m4c494i4a315i5f4i3u4d4h5c4"><i class="fa fa-flask fa-fw"></i>Other Charges</a>
+                    </li>
+                    <li>
+                        <a href="#"><i class="fa fa-files-o fa-fw"></i>Password</a>
+                    </li>
+                    <li>
+                        <a href="#"><i class="fa fa-wrench fa-fw"></i>Signature</a>
+                    </li>
+					                     <li>
+                        <a href="index.php"><i class="fa fa-sign-out fa-fw"></i>Sign Out</a>
+                    </li>
+                </ul>
+                <!-- end side-menu --                >
+            </div>
+            <!-- end sidebar-collapse -->
+        </nav>
+        
+      accm        <!-- end navbar side -->
+        <!--  paste/include content -->
+         <!--  page-wrapper -->
+  <style type="text/css">.style1{font-family:"Courier New",Courier,monospace}</style>
+  
+        <div id="page-wrapper">
+
+            
+            <div class="row">
+                 <!--  page header -->
+                <div class="col-lg-12">
+                    <h1 class="page-header">Accommodation</h1>
+                </div>
+                 <!-- end  page header -->
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <!-- Advanced Tables -->
+                    <div class="panel panel-default">
+                        <div class="panel-body">
+                            <div class="table-responsive">
+                            <form id="form1" name="form1" method="POST" action="/accpt/eP.php?TK=z4l4c4k5m4o4r5l5h463137384l4h5z434r5i553i454j5h5j5g514e2u364b4p4n4n3s494p4o444k5c425e4o5k3u4t5i543m3s2q2v2z22474u2d4z5d4i5o4f4g5l5h5d453r4g4f494n4g4z4d474r3l4s5f5f4">
+								
+                              <table width="" border="0" cellpadding="6" cellspacing="7" class="" id="alternatecolor">
+                                <tr>
+                                  <td colspan="2"><span class="style1"><u>STUDENT'S DATA</u></span></td>
+                                </tr>
+                                <tr>
+                                  <td height="219" colspan="2"><table width="" border="1" cellpadding="5" cellspacing="0">
+                                    <tr>
+                                      <td width="293">Matric Number</td>
+                                      <td width="200">2022/1/88702CM</td>
+                                    </tr>
+                                    <tr>
+                                      <td>Department</td>
+                                      <td>TME</td>
+                                    </tr>
+                                    <tr>
+                                      <td>Gender</td>
+                                      <td>M</td>
+                                    </tr>
+                                    <tr>
+                                      <td>School</td>
+                                      <td>SEET</td>
+                                    </tr>
+                                    <tr>
+                                      <td>Entry Session</td>
+                                      <td>2022/2023</td>
+                                    </tr>
+                                    <tr>
+                                      <td>Current Session</td>
+                                      <td>2022/2023</td>
+                                    </tr>
+                                    <tr>
+                                      <td>Current Level</td>
+                                      <td>100</td>
+                                    </tr>
+                                  </table></td>
+                                </tr>
+                                <tr>
+                                  <td colspan="2"><span class="style1"><u><br/>
+                                  ACCOMMODATION'S INFORMATION<br/>
+                                  </u></span></td>
+                                </tr>
+                                <tr>
+                                  <td colspan="2">
+									  
+									  <table width="100%" border="1">
+                                    <tr>
+                                                                            
+ <td>
+	<h2> CLICK THE RIGHT OPTION TO SELECT </h2>
+
+			<table width="" border="1">
+						<tr>
+			  <td width="263"><label>
+				<input type="radio" name="RadioGroupBed" value="Bosso__Bosso Male" id="RadioGroupBed_bosso"/>
+				<strong>BOSSO</strong> MALE Hostel Block Q only </label></td>
+			  <td width="237">Cost: N40,000.00</td>
+			</tr>
+			
+			
+			                                      
+			</table>
+</td>   
+<td>  
+</td>	
+<td>	
+	
+
+	
+	
+	
+	
+	</td>
+                                </tr>
+                                <tr>
+                                  <td width="278"><label>
+                                    <input class="btn btn-primary" type="submit" name="book" id="book" value="Book Only"/>
+                                    <input name="gender" type="hidden" id="gender" value="M"/>
+                                    <input name="level" type="hidden" id="level" value="100"/>
+                                    <input name="stdcat" type="hidden" id="stdcat" value="Bosso Male"/>
+                                    <input name="stdid" type="hidden" id="stdid" value="M2204124"/>
+                                    <input name="school" type="hidden" id="school" value="SEET"/>
+                                  </label></td>
+                                  <td width="332"><input class="btn btn-primary" type="submit" name="booknpay" id="booknpay" value="Book and Proceed for Payment"/></td>
+                                </tr>
+                              </table>
+                                <input type="hidden" name="MM_update" value="form1"/>
+
+                              </form>
+                            </div>
+                            
+                        </div>
+                    </div>
+                    <!--End Advanced Tables -->
+                </div>
+            </div>
+            
+        </div>
+        <!-- end page-wrapper -->
+
+    </div>
+    <!-- end wrapper -->
+
+    <!-- Core Scripts - Include with every loog ge foo000= page -->
+    <script src="assets/plugins/jquery-1.10.2.js.pagespeed.jm.QLC3zesjwg.js"></script>
+    <script src="assets/plugins,_bootstrap,_bootstrap.min.js+plugins,_metisMenu,_jquery.metisMenu.js+plugins,_pace,_pace.js+scripts,_siminta.js.pagespeed.jc.sVDb8DUhLg.js"></script><script>eval(mod_pagespeed_QJkMn_f36Z);</script>
+    <script>eval(mod_pagespeed_60qLeT3hK9);</script>
+    <script>eval(mod_pagespeed_GUKK6xRXpS);</script>
+    <script>eval(mod_pagespeed_0FfAN1yAWr);</script>
+    <!-- Page-Level Plugin Scripts-->
+    <script src="assets/plugins/dataTables/jquery.dataTables.js.pagespeed.jm.fXHFrn5GUV.js"></script>
+    <script src="assets/plugins/dataTables/dataTables.bootstrap.js.pagespeed.jm.piS1QZZOJD.js"></script>
+    <script>$(document).ready(function(){$('#dataTables-example').dataTable();});</script>
+       <!--  end content -->
+    </div>
+    
+    
+<div class="modal inmodal fade" id="covid19_mdl" tabindex="-1" role="dialog" aria-hidden="true" data-keyboard="false" data-backdrop="static">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+            </div>
+                <div class="modal-body" id="covid19_body"> 
+					
+					
+				
+<div align="center"><h3><strong>UNDERTAKING TO COMPLY WITH COVID – 19 GUIDELINES AND PROTOCOLS</strong></h3></div>
+<div style=" font-size: 20px">
+I, Adebaba Segun Kayode, a 100 level student of the Department of Telecommunication Engineering with Matriculation Number 2022/1/88702CM, hereby undertake and agree to comply with all COVID-19 guidelines and protocols as well as the requirements set forth by the University or that may be further imposed by the University from time to time.
+<br><br>
+I understand that failure to abide by these guidelines, protocols and requirements or failure to abide by any other University directive(s) incidental or related to them will result in a disciplinary action against me which may lead to my dismissal from the University. I understand that this compliance is mandatory on me both within and outside the University campuses.
+<br><br>
+I confirm that I will comply as herein stated.
+</div>	
+
+	
+<form name="payaccpt" action="covid19.php" method="POST">
+<button class="btn btn-primary" type="submit">Download And Sign</button>
+
+<input name="CandName" type="hidden" id="CandName" value="Adebaba Segun Kayode"/>
+<input name="level" type="hidden" id="level" value="100"/>
+<input name="MatNumber" type="hidden" id="MatNumber" value="2022/1/88702CM"/>
+<input name="deptname" type="hidden" id="deptname" value="Telecommunication Engineering"/>
+                                        
+                                                </form>				
+			
+			
+</div>
+        </div>
+    </div>
+    </div>
+
+   
+
+
+    <!-- end wrapper -->
+
+    <!-- Core Scripts - Include with every page -->
+    <script src="assets/plugins/jquery-1.10.2.js.pagespeed.jm.QLC3zesjwg.js"></script>
+    <script src="assets/plugins,_bootstrap,_bootstrap.min.js+plugins,_metisMenu,_jquery.metisMenu.js+plugins,_pace,_pace.js+scripts,_siminta.js.pagespeed.jc.sVDb8DUhLg.js"></script><script>eval(mod_pagespeed_QJkMn_f36Z);</script>
+    <script>eval(mod_pagespeed_60qLeT3hK9);</script>
+    <script>eval(mod_pagespeed_GUKK6xRXpS);</script>
+    <script>eval(mod_pagespeed_0FfAN1yAWr);</script>
+    <!-- Page-Level Plugin Scripts-->
+    <script src="assets/plugins/morris/raphael-2.1.0.min.js.pagespeed.jm.6oRiKBSgWY.js"></script>
+    <script src="assets/plugins,_morris,_morris.js+scripts,_dashboard-demo.js.pagespeed.jc.bv9bP0JXNa.js"></script><script>eval(mod_pagespeed_xIEDCVbFV5);</script>
+    <script>eval(mod_pagespeed_1vddeJIvWJ);</script>
+
+</body>
+
+</html>
+
+<script></script>
